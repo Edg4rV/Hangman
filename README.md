@@ -1,2 +1,2 @@
-# Hangman.py
-Simple Game 
+# Hangman
+Simple Game  
